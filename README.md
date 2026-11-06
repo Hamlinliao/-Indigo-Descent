@@ -2,7 +2,8 @@
 
 > 把任意一张图片，重绘成《下山》里那片靛蓝的纸本梦境。
 
-![靛影下山封面](assets/cover.jpg)
+<img width="565" height="421" alt="image" src="https://github.com/user-attachments/assets/52ac8df7-b0a0-4d55-8390-c815a2910dce" />
+
 
 ![Text License](https://img.shields.io/badge/text-MIT-17384A)
 ![Asset License](https://img.shields.io/badge/stills-CC%20BY--NC%204.0-A33A2C)
@@ -35,7 +36,8 @@
 
 ## 与《贵州兴义》的关系
 
-![同一张纸，两种温度](assets/lineage.jpg)
+<img width="565" height="286" alt="image" src="https://github.com/user-attachments/assets/3217e601-0a8f-4381-b902-83536e14a619" />
+
 
 有两个相关但不同的作品：
 
@@ -73,15 +75,13 @@
 
 ## 预览
 
-![四段影像，一个视觉世界](assets/contact-sheet.jpg)
+<img width="564" height="407" alt="image" src="https://github.com/user-attachments/assets/71b52ff9-bbff-4205-aa32-b742e30a973e" />
 
-四段原片静帧只用于说明风格，**不是本 skill 的生成结果**。动势预览（约 3 秒）：
-
-![运动预览](assets/motion-preview.gif)
 
 色板与建议比例：
 
-![色板](assets/palette.png)
+![Uploading image.png…]()
+
 
 ---
 
